@@ -59,7 +59,6 @@
             this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(260, 80);
             this.textBox2.TabIndex = 2;
-            this.textBox2.WordWrap = false;
             // 
             // button1
             // 
